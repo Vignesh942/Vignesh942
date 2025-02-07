@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Vignesh942
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello , I am Vignesh 
+Computer science student and Cybersecurity Enthusiast
 
-<!---
-Vignesh942/Vignesh942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **cybersecurity student** exploring the ever-evolving world of **digital security, ethical hacking, and programming**. I love building security tools, and researching **offensive & defensive security strategies**.  
+
+### 🚀 **What I Do**
+- 🔐 Cybersecurity Research & Ethical Hacking  
+- 🖥️ Penetration Testing & Security Tools  
+- 🛠️ Python & JavaScript Development
+
+- Lets connect and share knowledge and Idea's!!
